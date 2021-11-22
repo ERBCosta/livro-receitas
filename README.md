@@ -5,6 +5,7 @@
 ##### Alguns comandos utilizados #####
 
 - Git Status - para verificar se o arquivo tem atualizações;
+- Git add - adiciona os arquivos;
 - Git Commit - para gerar os arquivos
 - ls - para listar os arquivos e pastas dos diretórios;
 - mkdir para criar um novo diretório;
