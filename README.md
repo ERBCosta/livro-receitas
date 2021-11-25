@@ -12,6 +12,10 @@
 - cd .. - para voltar uma pasta no diretório;
 - echo > nomedoarquivo.md - para criar um arquivo;
 
+**Teste para resolver conflito de merge**
+
+- Atualizando o código.
+
 
 
 
